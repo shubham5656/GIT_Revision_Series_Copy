@@ -66,3 +66,13 @@ footer{
 footer p{
     text-align: center;
 }
+
+figure{
+    padding: 1rem;
+}
+figure img{
+    width: 450px;
+}
+figcaption{
+    text-align: justify;
+}
